@@ -1,0 +1,16 @@
+[project]
+name = "quizhazard"
+version = "0.1.0"
+description = "QuizHazard is an interactive Telegram bot that empowers users to effortlessly create, share, and take engaging quizzes."
+authors = [
+    {name = "Your Name",email = "you@example.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
